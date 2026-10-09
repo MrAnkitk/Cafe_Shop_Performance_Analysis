@@ -1,5 +1,3 @@
-# Cafe_Shop_Performance_Analysis
-
 # Café Shop Performance Analysis | Excel
 
 ## Project Overview
